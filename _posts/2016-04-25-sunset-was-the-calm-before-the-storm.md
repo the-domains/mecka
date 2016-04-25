@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sunset - This was the calm before the storm.
-datePublished: '2016-04-25T07:42:28.406Z'
-dateModified: '2016-04-25T07:42:16.168Z'
+datePublished: '2016-04-25T07:47:45.450Z'
+dateModified: '2016-04-25T07:47:44.561Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-sunset-was-the-calm-before-the-storm.md
 published: true
 authors: []
