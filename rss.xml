@@ -4,7 +4,7 @@
         <description><![CDATA[MECKA]]></description>
         <link>https://thegrid.ai/mecka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:40:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mecka/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/mecka/the-setup/index.html</link>
             <guid isPermaLink="false">4b430087-56fd-4206-86a1-9bb365e0e500</guid>
             <pubDate>Mon, 25 Apr 2016 03:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0300a809-074f-4961-9bc0-5737980bb32c.jpg">]]></description>
-            <link>https://thegrid.ai/mecka/the-tow-car-needed-something-a-little-bigger-to-tow-the-ca/index.html</link>
-            <guid isPermaLink="false">27aad5b1-7843-4487-87a1-cca5da5360f9</guid>
-            <pubDate>Mon, 18 Apr 2016 09:56:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
