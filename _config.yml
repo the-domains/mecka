@@ -1,7 +1,7 @@
 name: MECKA
 favicon: null
-layout_spectrum: 0.24843
-typography_spectrum: 0
+layout_spectrum: 0.13538
+typography_spectrum: 0.21773
 cta:
   domain: null
   bucket: null
