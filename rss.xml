@@ -4,8 +4,15 @@
         <description><![CDATA[MECKA]]></description>
         <link>https://thegrid.ai/mecka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 07:30:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mecka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About US]]></title>
+            <description><![CDATA[<p>What is MECKA?</p>]]></description>
+            <link>https://thegrid.ai/mecka/about-us/index.html</link>
+            <guid isPermaLink="false">f9dfcb2c-14a1-4691-aa80-ca15b0acceb8</guid>
+            <pubDate>Mon, 25 Apr 2016 07:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b903526-4344-4322-9c39-74443db2cca9.jpg">]]></description>
