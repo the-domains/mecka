@@ -1,20 +1,15 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Sunrise at Surfers Paradise
-datePublished: '2016-04-25T09:11:05.083Z'
-dateModified: '2016-04-25T09:10:48.164Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-04-25T09:26:47.221Z'
+datePublished: '2016-04-25T09:27:21.668Z'
+keywords: []
+publisher: {}
+title: ''
+hasPage: true
+inFeed: true
+inNav: false
+description: Sunrise at Surfers Paradise
+author: []
 starred: false
 sourcePath: _posts/2016-04-25-sunrise-at-surfers-paradise.md
 published: true
@@ -22,5 +17,6 @@ url: sunrise-at-surfers-paradise/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79350f6e2b67ebb12ff80e9b4f35afcdd153db38.jpg)
+
 Sunrise at Surfers Paradise
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/274a137a-2ce6-443c-adfd-bc7e2bfa44e3.jpg)
