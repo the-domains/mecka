@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'FiiK Big Daddy Electric Skateboard - fun for boys of all ages. Early morning ride on top of the mountain, head in the clouds'
-datePublished: '2016-04-29T00:35:51.515Z'
-dateModified: '2016-04-29T00:35:49.389Z'
+description: FiiK Big Daddy Electric Skateboard - fun for boys of all ages. Early morning ride on top of the mountain.
+datePublished: '2016-04-29T00:47:43.494Z'
+dateModified: '2016-04-29T00:47:41.569Z'
 title: ''
 author:
   - name: ''
@@ -24,5 +24,5 @@ url: fiik-big-daddy-electric-skateboard-fun-for-boys-of-all-age/index.html
 _type: Blurb
 
 ---
-FiiK Big Daddy Electric Skateboard - fun for boys of all ages. Early morning ride on top of the mountain, head in the clouds
+FiiK Big Daddy Electric Skateboard - fun for boys of all ages. Early morning ride on top of the mountain.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed526fa40a3a18a43942b9ca2fb37ee48be7326.jpg)
