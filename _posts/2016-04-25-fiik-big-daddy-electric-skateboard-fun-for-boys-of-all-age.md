@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FiiK Big Daddy Electric Skateboard - fun for boys of all ages. Early morning ride on top of the mountain.
-datePublished: '2016-04-29T00:47:43.494Z'
-dateModified: '2016-04-29T00:47:41.569Z'
+datePublished: '2016-04-29T01:30:15.719Z'
+dateModified: '2016-04-29T00:48:02.634Z'
 title: ''
 author:
   - name: ''
