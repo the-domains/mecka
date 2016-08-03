@@ -1,7 +1,7 @@
 name: MECKA
 favicon: null
-layout_spectrum: 0.949324
-typography_spectrum: 0.06697
+layout_spectrum: 0.42294220556505024
+typography_spectrum: 0.6258606768678874
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#c5cf65'
-    - '#0e1b07'
-    - '#5c8119'
-    - '#274309'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 1
-  rhythmicContrast: 0.25
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.27285425551235676
+  lightness: 0.5207864381372929
+  saturation: 0.7830160376615822
+  rhythmicContrast: 0.7191142472438514
 purpose: []
